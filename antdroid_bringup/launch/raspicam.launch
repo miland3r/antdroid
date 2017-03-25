@@ -1,6 +1,5 @@
 <launch>
   <node type="raspicam_node" pkg="raspicam_node" name="raspicam_node">
-    <node pkg="raspicam_node" type="raspicam_node" name="raspicam_node" >
     <param name="framerate" value="10" />
     <param name="quality" value="10" />
     </node>
