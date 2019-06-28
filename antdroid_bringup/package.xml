@@ -19,7 +19,7 @@
   <run_depend>antdroid_antfirm</run_depend>
   <run_depend>antdroid_control_interpreter</run_depend>
   <run_depend>antdroid_cam_control</run_depend>
-  <run_depend>raspicam</run_depend>
+  <run_depend>raspicam_node</run_depend>
  <!-- <run_depend>antdroid_teleop</run_depend>-->
 
 
